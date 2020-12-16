@@ -15,3 +15,13 @@ body {
     text-align: center;
     margin-top: 5px;
 }
+.bg-custom {
+    background-color: #784d8c;
+}
+.nb-logo {
+    font-family: 'Lobster', cursive;
+}
+.acc-card {
+    text-align: center;
+    margin-top: 10px;
+}
